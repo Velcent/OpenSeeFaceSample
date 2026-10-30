@@ -11,11 +11,11 @@ MonoBehaviour:
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 63b589176a34b344b9ccbee2b7e7114a, type: 3}
   m_Name: Meta
-  m_EditorClassIdentifier: 
+  m_EditorClassIdentifier: VRM::VRM.VRMMetaObject
   ExporterVersion: UniVRM-0.44
   Title: Example
-  Version: 
-  Author: 
+  Version: 1
+  Author: Velcent Games
   ContactInformation: 
   Reference: 
   Thumbnail: {fileID: 2800000, guid: acd099fc1f026a3418a9ddf290d16df8, type: 3}
